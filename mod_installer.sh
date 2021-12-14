@@ -2,7 +2,7 @@
 set -e
 set -o pipefail
 
-home="/home/pz"
+home=$HOME
 
 cd "$home" || exit
 if [ -f "${home}/mod_config.env" ]; then
