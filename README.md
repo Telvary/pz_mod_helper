@@ -25,6 +25,7 @@ CRYPTKEY=""
 STEAMUSER=""
 STEAMPASS=""
 WSCOLLECTIONID=
+HOME=""
 ```
 
 Instead of WSCOLLECTIONID you can also make a list yourself:
